@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-10-30T18:49:58.186132+00:00",
+  "run_utc": "2026-10-30T20:30:36.888573+00:00",
   "cases": [
     {
       "case": "A_10KB_base",
@@ -9,8 +9,8 @@
       "blocks": 10,
       "sha256_original": "6038b54ac9688549a648a9526ada7f18a3aacf2ffcd2007bbfb2b711d33bc16d",
       "all_sha256_match": true,
-      "wall_seconds": 0.8989,
-      "last_peer_seconds": 0.005204,
+      "wall_seconds": 0.5772,
+      "last_peer_seconds": 0.108191,
       "downloaded_peers": 1,
       "relay_block_counts": {
         "peer_1": {
@@ -28,8 +28,8 @@
       "blocks": 5,
       "sha256_original": "7ef5263f51f4d4a0bd366f20786cabee726d9d2043a89c1ca79205cd82900529",
       "all_sha256_match": true,
-      "wall_seconds": 1.4215,
-      "last_peer_seconds": 0.155996,
+      "wall_seconds": 0.621,
+      "last_peer_seconds": 0.065497,
       "downloaded_peers": 3,
       "relay_block_counts": {
         "peer_1": {
@@ -53,8 +53,8 @@
       "blocks": 1024,
       "sha256_original": "426235010e864fc7ecf35f151652fe4e69e5abb6a6ed11a47f51bab8f084e214",
       "all_sha256_match": true,
-      "wall_seconds": 1.101,
-      "last_peer_seconds": 0.174825,
+      "wall_seconds": 16.0518,
+      "last_peer_seconds": 15.604696,
       "downloaded_peers": 1,
       "relay_block_counts": {
         "peer_1": {
@@ -72,8 +72,8 @@
       "blocks": 1280,
       "sha256_original": "ac5b08855828a4f52f933184bbb85a562716c788b6abb59e5c3d56a44a47420e",
       "all_sha256_match": true,
-      "wall_seconds": 1.8457,
-      "last_peer_seconds": 0.719711,
+      "wall_seconds": 21.9553,
+      "last_peer_seconds": 21.323985,
       "downloaded_peers": 3,
       "relay_block_counts": {
         "peer_1": {
@@ -97,8 +97,8 @@
       "blocks": 10240,
       "sha256_original": "2b979d6f3f1316aaa6d514834063945767930998d348dcf5a9314cb31273da2b",
       "all_sha256_match": true,
-      "wall_seconds": 2.9581,
-      "last_peer_seconds": 1.957307,
+      "wall_seconds": 107.3514,
+      "last_peer_seconds": 106.803001,
       "downloaded_peers": 1,
       "relay_block_counts": {
         "peer_1": {
@@ -116,8 +116,8 @@
       "blocks": 5120,
       "sha256_original": "2f0ad12fc84e342a6264894dd97e2a305083ef5319defbdcd01b280ae8dae799",
       "all_sha256_match": true,
-      "wall_seconds": 3.1418,
-      "last_peer_seconds": 1.594014,
+      "wall_seconds": 84.107,
+      "last_peer_seconds": 83.15824,
       "downloaded_peers": 3,
       "relay_block_counts": {
         "peer_1": {
@@ -141,8 +141,8 @@
       "blocks": 1024,
       "sha256_original": "426235010e864fc7ecf35f151652fe4e69e5abb6a6ed11a47f51bab8f084e214",
       "all_sha256_match": true,
-      "wall_seconds": 1.6296,
-      "last_peer_seconds": 0.427027,
+      "wall_seconds": 29.3517,
+      "last_peer_seconds": 28.789924,
       "downloaded_peers": 3,
       "relay_block_counts": {
         "peer_1": {
@@ -166,8 +166,8 @@
       "blocks": 256,
       "sha256_original": "426235010e864fc7ecf35f151652fe4e69e5abb6a6ed11a47f51bab8f084e214",
       "all_sha256_match": true,
-      "wall_seconds": 1.1382,
-      "last_peer_seconds": 0.057796,
+      "wall_seconds": 4.5815,
+      "last_peer_seconds": 4.145274,
       "downloaded_peers": 1,
       "relay_block_counts": {
         "peer_1": {
@@ -185,8 +185,8 @@
       "blocks": 10240,
       "sha256_original": "2b979d6f3f1316aaa6d514834063945767930998d348dcf5a9314cb31273da2b",
       "all_sha256_match": true,
-      "wall_seconds": 3.9034,
-      "last_peer_seconds": 2.620523,
+      "wall_seconds": 168.6698,
+      "last_peer_seconds": 167.92085,
       "downloaded_peers": 3,
       "relay_block_counts": {
         "peer_1": {
@@ -210,8 +210,8 @@
       "blocks": 2560,
       "sha256_original": "2b979d6f3f1316aaa6d514834063945767930998d348dcf5a9314cb31273da2b",
       "all_sha256_match": true,
-      "wall_seconds": 1.5141,
-      "last_peer_seconds": 0.483246,
+      "wall_seconds": 26.1841,
+      "last_peer_seconds": 25.616831,
       "downloaded_peers": 1,
       "relay_block_counts": {
         "peer_1": {
