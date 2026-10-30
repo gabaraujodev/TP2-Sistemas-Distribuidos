@@ -1,0 +1,82 @@
+{
+  "A_20KB_variacao": [
+    {
+      "peer": "peer_1",
+      "first_sent_utc": "2026-10-30T18:49:40.128+00:00",
+      "completed_utc": "2026-10-30T18:49:40.097+00:00",
+      "served_before_completion": false,
+      "seconds_before_completion": -0.031
+    },
+    {
+      "peer": "peer_2",
+      "first_sent_utc": "2026-10-30T18:49:40.257+00:00",
+      "completed_utc": "2026-10-30T18:49:40.129+00:00",
+      "served_before_completion": false,
+      "seconds_before_completion": -0.128
+    }
+  ],
+  "B_5MB_variacao": [
+    {
+      "peer": "peer_1",
+      "first_sent_utc": "2026-10-30T18:49:42.826+00:00",
+      "completed_utc": "2026-10-30T18:49:42.982+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 0.156
+    },
+    {
+      "peer": "peer_2",
+      "first_sent_utc": "2026-10-30T18:49:42.836+00:00",
+      "completed_utc": "2026-10-30T18:49:43.157+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 0.321
+    }
+  ],
+  "C_20MB_variacao": [
+    {
+      "peer": "peer_1",
+      "first_sent_utc": "2026-10-30T18:49:47.786+00:00",
+      "completed_utc": "2026-10-30T18:49:49.149+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 1.363
+    },
+    {
+      "peer": "peer_2",
+      "first_sent_utc": "2026-10-30T18:49:47.853+00:00",
+      "completed_utc": "2026-10-30T18:49:49.354+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 1.501
+    }
+  ],
+  "B_1MB_4peers_1024": [
+    {
+      "peer": "peer_1",
+      "first_sent_utc": "2026-10-30T18:49:50.806+00:00",
+      "completed_utc": "2026-10-30T18:49:51.003+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 0.197
+    },
+    {
+      "peer": "peer_2",
+      "first_sent_utc": "2026-10-30T18:49:50.873+00:00",
+      "completed_utc": "2026-10-30T18:49:51.078+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 0.205
+    }
+  ],
+  "C_10MB_4peers_1024": [
+    {
+      "peer": "peer_1",
+      "first_sent_utc": "2026-10-30T18:49:53.676+00:00",
+      "completed_utc": "2026-10-30T18:49:55.787+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 2.111
+    },
+    {
+      "peer": "peer_2",
+      "first_sent_utc": "2026-10-30T18:49:53.805+00:00",
+      "completed_utc": "2026-10-30T18:49:56.118+00:00",
+      "served_before_completion": true,
+      "seconds_before_completion": 2.313
+    }
+  ]
+}

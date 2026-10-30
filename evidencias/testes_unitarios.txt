@@ -1,0 +1,13 @@
+test_framing_with_binary_payload (test_core.ProtocolTests.test_framing_with_binary_payload) ... ok
+test_empty_file (test_core.StorageTests.test_empty_file) ... ok
+test_manifest_and_number_of_blocks (test_core.StorageTests.test_manifest_and_number_of_blocks) ... ok
+test_out_of_order_and_finalize (test_core.StorageTests.test_out_of_order_and_finalize) ... ok
+test_reject_modified_block (test_core.StorageTests.test_reject_modified_block) ... ok
+test_resume_with_verification (test_core.StorageTests.test_resume_with_verification) ... ok
+test_seeder_has_all_blocks (test_core.StorageTests.test_seeder_has_all_blocks) ... ok
+test_unsafe_filename_is_rejected (test_core.StorageTests.test_unsafe_filename_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.009s
+
+OK

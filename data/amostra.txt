@@ -1,0 +1,9 @@
+CEFET-MG - Sistemas Distribuidos - Trabalho Pratico 2 - 2026/2
+Autor: Gabriel Araujo Barbosa
+
+Este arquivo demonstra a transferencia P2P em blocos. Cada peer funciona
+como cliente e servidor, valida os blocos pelo SHA-256 e repassa os dados
+recebidos aos seus vizinhos. O arquivo final deve ser identico ao original.
+
+0001 P2P simetrico; 0002 TCP nao bloqueante; 0003 fragmentacao;
+0004 bitfield; 0005 remontagem; 0006 integridade; 0007 logs.

@@ -1,0 +1,93 @@
+{
+  "run_utc": "2026-10-30T18:40:41.991434+00:00",
+  "cases": [
+    {
+      "case": "A_10KB_base",
+      "peers": 2,
+      "block_size_bytes": 1024,
+      "file_size_bytes": 10240,
+      "blocks": 10,
+      "sha256_original": "6038b54ac9688549a648a9526ada7f18a3aacf2ffcd2007bbfb2b711d33bc16d",
+      "all_sha256_match": true,
+      "wall_seconds": 1.3432,
+      "last_peer_seconds": 0.007263,
+      "downloaded_peers": 1,
+      "relay_block_counts": {
+        "peer_1": {
+          "127.0.0.1:31000": 10
+        }
+      },
+      "status": "PASS",
+      "error": ""
+    },
+    {
+      "case": "A_20KB_variacao",
+      "peers": 4,
+      "block_size_bytes": 4096,
+      "file_size_bytes": 20480,
+      "blocks": 5,
+      "sha256_original": "7ef5263f51f4d4a0bd366f20786cabee726d9d2043a89c1ca79205cd82900529",
+      "all_sha256_match": true,
+      "wall_seconds": 1.4865,
+      "last_peer_seconds": 0.157118,
+      "downloaded_peers": 3,
+      "relay_block_counts": {
+        "peer_1": {
+          "127.0.0.1:31010": 5
+        },
+        "peer_2": {
+          "127.0.0.1:31011": 5
+        },
+        "peer_3": {
+          "127.0.0.1:31012": 5
+        }
+      },
+      "status": "PASS",
+      "error": ""
+    },
+    {
+      "case": "B_1MB_base",
+      "peers": 2,
+      "block_size_bytes": 1024,
+      "file_size_bytes": 1048576,
+      "blocks": 1024,
+      "sha256_original": "426235010e864fc7ecf35f151652fe4e69e5abb6a6ed11a47f51bab8f084e214",
+      "all_sha256_match": true,
+      "wall_seconds": 1.2911,
+      "last_peer_seconds": 0.193325,
+      "downloaded_peers": 1,
+      "relay_block_counts": {
+        "peer_1": {
+          "127.0.0.1:31020": 1024
+        }
+      },
+      "status": "PASS",
+      "error": ""
+    },
+    {
+      "case": "B_5MB_variacao",
+      "peers": 4,
+      "block_size_bytes": 4096,
+      "file_size_bytes": 5242880,
+      "blocks": 1280,
+      "sha256_original": "ac5b08855828a4f52f933184bbb85a562716c788b6abb59e5c3d56a44a47420e",
+      "all_sha256_match": true,
+      "wall_seconds": 1.8919,
+      "last_peer_seconds": 0.546253,
+      "downloaded_peers": 3,
+      "relay_block_counts": {
+        "peer_1": {
+          "127.0.0.1:31030": 1280
+        },
+        "peer_2": {
+          "127.0.0.1:31031": 1280
+        },
+        "peer_3": {
+          "127.0.0.1:31032": 1280
+        }
+      },
+      "status": "PASS",
+      "error": ""
+    }
+  ]
+}

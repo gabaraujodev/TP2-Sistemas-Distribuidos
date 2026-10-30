@@ -1,0 +1,9 @@
+{
+  "name": "demonstracao_2_peers",
+  "seed_file": "data/amostra.txt",
+  "block_size": 1024,
+  "peers": [
+    {"id": "seeder", "host": "127.0.0.1", "port": 41000, "neighbors": []},
+    {"id": "leecher_1", "host": "127.0.0.1", "port": 41001, "neighbors": ["127.0.0.1:41000"]}
+  ]
+}

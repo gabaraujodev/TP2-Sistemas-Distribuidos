@@ -1,0 +1,5 @@
+case,peers,block_size_bytes,file_size_bytes,blocks,wall_seconds,last_peer_seconds,downloaded_peers,sha256_original,all_sha256_match,status,error
+A_10KB_base,2,1024,10240,10,1.3432,0.007263,1,6038b54ac9688549a648a9526ada7f18a3aacf2ffcd2007bbfb2b711d33bc16d,True,PASS,
+A_20KB_variacao,4,4096,20480,5,1.4865,0.157118,3,7ef5263f51f4d4a0bd366f20786cabee726d9d2043a89c1ca79205cd82900529,True,PASS,
+B_1MB_base,2,1024,1048576,1024,1.2911,0.193325,1,426235010e864fc7ecf35f151652fe4e69e5abb6a6ed11a47f51bab8f084e214,True,PASS,
+B_5MB_variacao,4,4096,5242880,1280,1.8919,0.546253,3,ac5b08855828a4f52f933184bbb85a562716c788b6abb59e5c3d56a44a47420e,True,PASS,

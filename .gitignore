@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.benchmark_work/
+.local_run/
+*.part
+have.log
+execucoes/

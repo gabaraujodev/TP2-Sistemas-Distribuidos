@@ -1,0 +1,11 @@
+{
+  "name": "demonstracao_4_peers_malha",
+  "seed_file": "data/amostra.txt",
+  "block_size": 1024,
+  "peers": [
+    {"id": "seeder", "host": "127.0.0.1", "port": 43000, "neighbors": []},
+    {"id": "leecher_1", "host": "127.0.0.1", "port": 43001, "neighbors": ["127.0.0.1:43000"]},
+    {"id": "leecher_2", "host": "127.0.0.1", "port": 43002, "neighbors": ["127.0.0.1:43000", "127.0.0.1:43001"]},
+    {"id": "leecher_3", "host": "127.0.0.1", "port": 43003, "neighbors": ["127.0.0.1:43000", "127.0.0.1:43001", "127.0.0.1:43002"]}
+  ]
+}
